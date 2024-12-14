@@ -1,0 +1,13 @@
+//Big maze:
+            /*
+        Robot robot = new Robot("xx xx  xxx\n"
+                +               "xx x    x \n"
+                +               "x   xxxxx \n"
+                +               "xx xx x xx\n"
+                +               " xxxx x x \n"
+                +               "     xxx x\n"
+                +               "xxxxx x xx\n"
+                +               "xxxxxxxxxx\n"
+                +               "xx    x   \n"
+                +               "x xxxxxxxx\n", 0, 0);
+                */
